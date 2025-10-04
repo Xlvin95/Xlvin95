@@ -7,34 +7,37 @@
       Eager to contribute and grow in cloud and infrastructure roles, with basic web development skills enabling collaboration with software development teams.
     </p>
   </div>
-  <img src="https://camo.githubusercontent.com/4b255b645e6a0b2f085585ff5a9c7d1931fbef3063b41958ec7ae31f09e4c473/68747470733a2f2f61737465722e636c6f75642f77702d636f6e74656e742f75706c6f6164732f323032322f31312f636f6d70696c696e672d636f64652e676966" alt="Developer working" width="250" align="right"/>
+ 
 </div>
 
 <hr/>
 
 <h2 align="center">🚀 Languages and Tools</h2>
 
-### ☁️ Cloud & OS  
+<img src="https://camo.githubusercontent.com/4b255b645e6a0b2f085585ff5a9c7d1931fbef3063b41958ec7ae31f09e4c473/68747470733a2f2f61737465722e636c6f75642f77702d636f6e74656e742f75706c6f6164732f323032322f31312f636f6d70696c696e672d636f64652e676966" alt="Developer working" width="250" align="right"/>
+
+☁️ Cloud & OS  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
   <img src="https://logos-world.net/wp-content/uploads/2022/04/Ubuntu-Symbol.png" alt="ubuntu" width="120" height="60"/>
 </p>
+ 
 
-### ⚙️ CI/CD & Automation  
+ ⚙️ CI/CD & Automation  
 <p>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="60" height="60"/>
 </p>
 
-### 🚛 Containerization  
+ 🚛 Containerization  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="kubernetes" width="60" height="60"/>
 </p>
 
-### 💻 Programming & Databases  
+ 💻 Programming & Databases  
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="60" height="60"/>
